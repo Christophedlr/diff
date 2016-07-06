@@ -1,7 +1,7 @@
 {
     "name": "christophedlr/diff",
     "description": "Register diff in two files or two string in PHP for economy of resources",
-    "type": "library",
+    "keywords": ["diff"],
     "license": "CeCILL V2",
     "authors": [
         {
