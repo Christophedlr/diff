@@ -19,7 +19,7 @@ composer install
 ### Second possibility
 type in console/terminal:
 ```bash
-composer install christophedlr/diff
+composer require christophedlr/diff
 ```
 
 ## License
